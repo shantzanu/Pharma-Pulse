@@ -1,0 +1,9 @@
+{ 
+  "mobile": "9988776655",
+  "email": "superadmin@gmail.com",
+  "firstName": "Super",
+  "lastName": "Admin", 
+  "password": "Admin@1234",
+  "status": "Active",
+  "role": "SUPER_ADMIN"
+}
